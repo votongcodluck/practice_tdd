@@ -6,7 +6,7 @@
 - Nếu a = 0 => trả về giải phương trình bậc 2: bx^2 + cx + d = 0; ...
 ## Cách thực hiện
 - Tạo 1 repository trên github hoặc gitlab
-- Mỗi vòng lặp (từ bước 2 - 6) tao 1 commit
+- Sau mỗi vòng lặp (từ bước 2 - 6) phải tạo 1 commit để đánh dấu sự thay đổi code
 - Điền link repository [vào đây](https://docs.google.com/spreadsheets/d/1VWgBO0Bsrb3QYxQGcmwyrjeiLwSBqgSG7lKdMTrs27M/edit?usp=sharing) để nộp bài
 
 # Hướng dẫn thực hành TDD
